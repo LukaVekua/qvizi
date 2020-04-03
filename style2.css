@@ -1,0 +1,24 @@
+.border{
+    border-style:dotted;
+    border-width:5px;
+    border-color:green;
+    text-align:center;
+}
+.lurji_trapecia{
+    border-bottom: solid 100px blue;
+    border-left: solid 25px transparent;
+    border-right: solid transparent 25px;
+    width:1300px;
+    height:0;
+    transform: rotate(180deg);
+    margin:auto;
+}
+.mwvane_trapecia{
+    border-bottom: 100px solid green;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width:1300px;
+    margin:auto;
+
+}
